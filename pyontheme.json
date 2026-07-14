@@ -1,10 +1,10 @@
 {
-    "name": "Pyontheme",
-    "description": "Theme about Pyoncord (real and true)",
+    "name": "Purple Plus",
+    "description": "Purple Plus",
     "authors": [
         {
-            "name": "LampDelivery",
-            "id": "650805815623680030"
+            "name": "paysonism",
+            "id": "1214355385457188926"
         }
     ],
     "semanticColors": {
@@ -156,7 +156,7 @@
  },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
+        "url": "https://raw.githubusercontent.com/430L/Purple-Plus/main/bg.png"
     },
   "plus": {
     "version": "0",
